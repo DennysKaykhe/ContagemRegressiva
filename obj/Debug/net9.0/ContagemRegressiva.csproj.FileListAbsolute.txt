@@ -1,0 +1,14 @@
+C:\Users\user\ContagemRegressiva\bin\Debug\net9.0\ContagemRegressiva.exe
+C:\Users\user\ContagemRegressiva\bin\Debug\net9.0\ContagemRegressiva.deps.json
+C:\Users\user\ContagemRegressiva\bin\Debug\net9.0\ContagemRegressiva.runtimeconfig.json
+C:\Users\user\ContagemRegressiva\bin\Debug\net9.0\ContagemRegressiva.dll
+C:\Users\user\ContagemRegressiva\bin\Debug\net9.0\ContagemRegressiva.pdb
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.AssemblyInfo.cs
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.dll
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\refint\ContagemRegressiva.dll
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.pdb
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.genruntimeconfig.cache
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ref\ContagemRegressiva.dll
