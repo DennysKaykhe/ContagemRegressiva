@@ -12,3 +12,4 @@ C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\refint\ContagemRegressiva.dll
 C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.pdb
 C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.genruntimeconfig.cache
 C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ref\ContagemRegressiva.dll
+C:\Users\user\ContagemRegressiva\obj\Debug\net9.0\ContagemRegressiva.sourcelink.json
